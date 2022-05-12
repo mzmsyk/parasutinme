@@ -1,0 +1,4 @@
+#Thu May 12 22:22:10 EET 2022
+base.0=E\:\\Yedek\\oyunlar\\parasut\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
